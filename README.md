@@ -4,7 +4,7 @@
 
 The final project prototype (see the process on [artstation](https://www.artstation.com/artwork/nEz1JE) & complete final here):
 
-❖ 3D characters with Blender (modelization, shading, animation, hair particules, render).<br />
+❖ 3D characters were realized with Blender (modelization, shading, animation, hair particules, render).<br />
 ❖ cube-matrix animation is my first touch designer test.<br />
 ❖ background is the code I built in sonic pi to create the audio based on [Aphex Twin - Just Fall Asleep](https://www.youtube.com/watch?v=2gNtuY4VAOA) song.<br />
 
