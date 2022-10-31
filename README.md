@@ -6,7 +6,8 @@ The final project (see the process on my artsation):
 
 I made alive 3D characters with Blender (modelization, shading, animation, hair particules, render); cube-matrix animation is my first touch designer test; background is the code I created in sonic pi to create the audio based on [Aphex Twin - Just Fall Asleep](https://www.youtube.com/watch?v=2gNtuY4VAOA) song.
 
-![6z0tui](https://user-images.githubusercontent.com/105500912/199104034-9e40f55e-c314-4304-b6f5-cbb420dda403.gif)
+[afx.webm](https://user-images.githubusercontent.com/105500912/199104265-8ac8d55d-90f8-466e-93a4-bd400c1f7e0e.webm)
+
 
 Basis model I drew:
 
