@@ -2,7 +2,7 @@
  Result of the code:
 ![index-matrix](https://user-images.githubusercontent.com/105500912/199080175-273923fb-0408-4730-ae2a-87ad8a1e1ab8.png)
 
-The final project (see the process on artstation):
+The final project prototype (see the process on artstation & complete final here):
 
 ❖ 3D characters with Blender (modelization, shading, animation, hair particules, render).<br />
 ❖ cube-matrix animation is my first touch designer test.<br />
