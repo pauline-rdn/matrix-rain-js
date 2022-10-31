@@ -1,5 +1,5 @@
 ﻿## matrix-rain-js 😎
- Result of the code:
+ Static result of the code:
 ![index-matrix](https://user-images.githubusercontent.com/105500912/199080175-273923fb-0408-4730-ae2a-87ad8a1e1ab8.png)
 
 The final project prototype (see the process on [artstation](https://www.artstation.com/artwork/nEz1JE) & complete final here):
